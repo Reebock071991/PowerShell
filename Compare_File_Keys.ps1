@@ -1,6 +1,7 @@
 ﻿
 ##
 The below script compare the sha 256 keys of a file downloaded and the key on the web
+EL script de abajo compara la llaves sha 256 de un archivo descargado y uno en la web
 ##
 $wc = [System.Net.WebClient]::new()
 $pkgurl = ' C:\Users\Reebo\Downloads\VirtualBox-6.1.10-138449-Win.exe '
